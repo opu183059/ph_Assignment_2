@@ -514,7 +514,7 @@ button {
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
     .dark-3 {
         font-weight: 400;
         font-size: 12px;
